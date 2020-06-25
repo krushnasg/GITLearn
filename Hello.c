@@ -1,6 +1,13 @@
 #include<stdio.h>
 
-int main(){
+void Hello(){
+
 	printf("Hello\n");
+	return;
+}
+
+int main(){
+	Hello();
+
 	return 0;
 }
