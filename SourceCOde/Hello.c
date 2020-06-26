@@ -6,9 +6,6 @@ void Hello(){
 	return;
 }
 
-void someUselessFnction(){
-
-};
 
 int main(){
 	Hello();
